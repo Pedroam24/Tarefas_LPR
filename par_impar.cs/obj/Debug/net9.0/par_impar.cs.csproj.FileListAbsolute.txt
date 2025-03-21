@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\bin\Debug\net9.0\par_impar.cs.exe
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\bin\Debug\net9.0\par_impar.cs.deps.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\bin\Debug\net9.0\par_impar.cs.runtimeconfig.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\bin\Debug\net9.0\par_impar.cs.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\bin\Debug\net9.0\par_impar.cs.pdb
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.sourcelink.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\refint\par_impar.cs.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.pdb
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\par_impar.cs.genruntimeconfig.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\par_impar.cs\obj\Debug\net9.0\ref\par_impar.cs.dll

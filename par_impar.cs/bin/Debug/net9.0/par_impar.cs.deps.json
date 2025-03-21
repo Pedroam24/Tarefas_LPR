@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "par_impar.cs/1.0.0": {
+        "runtime": {
+          "par_impar.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "par_impar.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

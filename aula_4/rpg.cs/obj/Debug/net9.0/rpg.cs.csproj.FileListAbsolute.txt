@@ -1,0 +1,5 @@
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.sourcelink.json

@@ -4,7 +4,7 @@ using System;
 class Program {
     static void Main() {
         Console.WriteLine("---------------------------------");
-        Console.WriteLine("DESCOBRINDO SE O NÚMERO É PAR!!!");
+        Console.WriteLine("DESCOBRINDO SE O NÚMERO É PAR OU ÍMPAR!!!");
         Console.WriteLine("---------------------------------");
         Console.Write("Digite um número: ");
         int number = int.Parse(Console.ReadLine());

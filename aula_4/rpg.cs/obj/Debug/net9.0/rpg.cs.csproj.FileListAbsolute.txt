@@ -3,3 +3,18 @@ c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\
 c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfo.cs
 c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.csproj.CoreCompileInputs.cache
 c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.sourcelink.json
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfoInputs.cache
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfo.cs
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.csproj.CoreCompileInputs.cache
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.sourcelink.json
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\bin\Debug\net9.0\rpg.cs.exe
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\bin\Debug\net9.0\rpg.cs.deps.json
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\bin\Debug\net9.0\rpg.cs.runtimeconfig.json
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\bin\Debug\net9.0\rpg.cs.dll
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\bin\Debug\net9.0\rpg.cs.pdb
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.dll
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\refint\rpg.cs.dll
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.pdb
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\rpg.cs.genruntimeconfig.cache
+c:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_4\rpg.cs\obj\Debug\net9.0\ref\rpg.cs.dll

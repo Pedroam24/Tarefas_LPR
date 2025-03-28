@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pepe\\Desktop\\ds2025\\Tarefas_LPR\\somda_dos_numeros\\somda_dos_numeros.csproj": {}
+    "c:\\Users\\Alunos\\Desktop\\pe2025\\cpp anderi\\Tarefas_LPR-1\\soma_dos_numeros\\soma_dos_numeros.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pepe\\Desktop\\ds2025\\Tarefas_LPR\\somda_dos_numeros\\somda_dos_numeros.csproj": {
+    "c:\\Users\\Alunos\\Desktop\\pe2025\\cpp anderi\\Tarefas_LPR-1\\soma_dos_numeros\\soma_dos_numeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pepe\\Desktop\\ds2025\\Tarefas_LPR\\somda_dos_numeros\\somda_dos_numeros.csproj",
-        "projectName": "somda_dos_numeros",
-        "projectPath": "c:\\Users\\pepe\\Desktop\\ds2025\\Tarefas_LPR\\somda_dos_numeros\\somda_dos_numeros.csproj",
-        "packagesPath": "C:\\Users\\pepe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pepe\\Desktop\\ds2025\\Tarefas_LPR\\somda_dos_numeros\\obj\\",
+        "projectUniqueName": "c:\\Users\\Alunos\\Desktop\\pe2025\\cpp anderi\\Tarefas_LPR-1\\soma_dos_numeros\\soma_dos_numeros.csproj",
+        "projectName": "soma_dos_numeros",
+        "projectPath": "c:\\Users\\Alunos\\Desktop\\pe2025\\cpp anderi\\Tarefas_LPR-1\\soma_dos_numeros\\soma_dos_numeros.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Alunos\\Desktop\\pe2025\\cpp anderi\\Tarefas_LPR-1\\soma_dos_numeros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

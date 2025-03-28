@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.sourcelink.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\bin\Debug\net9.0\soma_dos_numeros.exe
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\bin\Debug\net9.0\soma_dos_numeros.deps.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\bin\Debug\net9.0\soma_dos_numeros.runtimeconfig.json
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\bin\Debug\net9.0\soma_dos_numeros.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\bin\Debug\net9.0\soma_dos_numeros.pdb
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\refint\soma_dos_numeros.dll
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.pdb
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\soma_dos_numeros.genruntimeconfig.cache
+c:\Users\Alunos\Desktop\pe2025\cpp anderi\Tarefas_LPR-1\soma_dos_numeros\obj\Debug\net9.0\ref\soma_dos_numeros.dll

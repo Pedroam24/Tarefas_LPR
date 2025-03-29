@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treinamento_jedi", "treinamento_jedi.csproj", "{C3BC737C-7E77-1F8C-0A08-39006F448DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BC737C-7E77-1F8C-0A08-39006F448DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BC737C-7E77-1F8C-0A08-39006F448DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BC737C-7E77-1F8C-0A08-39006F448DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BC737C-7E77-1F8C-0A08-39006F448DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC4B3C4-A1FA-4B4D-9F4D-2DE2DF65E6EC}
+	EndGlobalSection
+EndGlobal

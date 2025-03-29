@@ -1,0 +1,15 @@
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.exe
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.deps.json
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.runtimeconfig.json
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.dll
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.pdb
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.AssemblyInfoInputs.cache
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.AssemblyInfo.cs
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.csproj.CoreCompileInputs.cache
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.sourcelink.json
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.dll
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\refint\treinamento_jedi.dll
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.pdb
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.genruntimeconfig.cache
+C:\Users\pepe\Desktop\ds2025\Tarefas_LPR\aula_5\treinamento_jedi\obj\Debug\net9.0\ref\treinamento_jedi.dll

@@ -9,20 +9,22 @@ int main(){
   int imp[10];
   int contpar = 0;
   int contimp = 0;
-  int i = 0;
+  
   cout << "Digite numeros inteiros" << endl;
-  for ( i = 0; i < 10; i++){
+  for ( int i = 0; i < 10; i++){
     
     cout << "numero" << i + 1 << ": " << endl;
     cin >> num;
     numeros[i] = num;
      if (num%2==0){
-      contpar++;
       par[contpar] = numeros[i];
+      contpar++;
+
      }
     else{
-      contimp++;
       imp[contimp] = numeros[i];
+      contimp++;
+
     }
   }
 

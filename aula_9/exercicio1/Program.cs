@@ -1,23 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
-class program
+﻿namespace exercicio1;
+    using System;
+    using System.Collections.Generic;
+
+
+internal class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        List<string> nomes = new();
+          Dictionary <string, int> alunos = new Dictionary<string, int> {
+            { "Pedro", 17 }, {"Gigi", 18 }, {"luis", 20}, {"Maria", 18}
+            };
 
-        Console.WriteLine("digite a quantidade de nomes da sua lista: ");
-        int quant = int.Parse(Console.ReadLine());
+        double media = alunos.Values.Sum() / (double)alunos.Count;
 
-        for (int i = 0; i <= quant; i++)
+        Console.WriteLine("A média de idade dos alunos é: " + media);
+
+        int maisVelho = 20, maisNovo = 17;
+        foreach (var aluno in alunos)
         {
-            Console.WriteLine("Digite o " + i + 1 + "° nome ");
-            nomes.Add(Console.ReadLine()); 
-            
 
+           /* if (aluno.Value > media)
+            {    
+                Console.WriteLine("PARA MAIORES QUE A MEDIA");
+                Console.WriteLine($" Aluno: {aluno.Key}, idade: {aluno.Value}");
+            }
+            else if (aluno.Value < media)
+            {
+                Console.WriteLine("PARA MENORES QUE A MEDIA");
+                Console.WriteLine($" Aluno: {aluno.Key}, idade: {aluno.Value}");
+            }*/
+            if (aluno.Value == maisVelho)
+            {
+                Console.WriteLine("O aluno mais velho é: " + aluno.Key + " com " + aluno.Value + " anos.");
+            }
+            else if (aluno.Value == maisNovo)
+            {
+                Console.WriteLine("O aluno mais novo é: " + aluno.Key + " com " + aluno.Value + " anos.");
+            }
+            
         }
-            
 
+        
 
-    }
+    }//fim do main
 }

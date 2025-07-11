@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FiZZeR9uKAc=",
+  "dgSpecHash": "NCHMEa8uBK8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\pe2025\\andery\\Tarefas_LPR\\aula_9\\exercicio1\\exercicio1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\pe2025\\andery\\Tarefas_LPR\\aula_9\\exercicios_de_dicionario\\dicionario\\exercicio1\\exercicio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alunos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
   "logs": []
 }
